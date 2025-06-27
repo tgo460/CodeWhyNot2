@@ -1,0 +1,5 @@
+llm:
+  # Use only open-source LLMs
+  # Options: "huggingface_api", "replicate_api", "local"
+  type: "ollama_local"
+  model_name: "qwen3:4b"

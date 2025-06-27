@@ -1,0 +1,23 @@
+# Core dependencies
+pydantic
+requests
+networkx
+streamlit
+pyyaml
+python-dotenv
+# LLMs
+transformers
+# For AST parsing (tree-sitter)
+tree_sitter
+# For UI components
+streamlit-ace
+pyvis
+# For testing
+pytest
+# For local GPU inference (optional)
+torch
+accelerate
+bitsandbytes
+# For experiment tracking (optional)
+wandb
+mlflow
